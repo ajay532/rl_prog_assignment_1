@@ -1,5 +1,5 @@
 execfile("core.py")
-
+print 'ajay pandey'
 arm1 = BernoulliArm(0.7)
 print arm1.draw()
 print arm1.draw()
